@@ -1,10 +1,10 @@
 # Hey, I'm Sushil 👋
 
-**AI Automation Engineer | Backend Builder | MS Computer Science**
+** Automation Engineer | Backend Builder | MS Computer Science**
 
 I build systems that don't just work — they work *by themselves*. 
 
-For 5 years I made healthcare and fintech platforms reliable at scale. Now I'm focused on where that meets AI: automating the boring parts, testing smarter, and building agents that handle real workflows.
+For 5 years, I made healthcare and fintech platforms reliable at scale. Now I'm focused on where that meets AI: automating the boring parts, testing smarter, and building agents that handle real workflows.
 
 Currently in Vancouver, building and breaking things in my MS CS program.
 
