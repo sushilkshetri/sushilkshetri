@@ -1,49 +1,50 @@
-## Hi there 👋
+# Hey, I'm Sushil 👋
 
-# Hi, I'm Sushil Kshetri 👋
+**AI Automation Engineer | Backend Builder | MS Computer Science**
 
-**MS Computer Science Student | Backend Engineer | Java • Python • SQL**
+I build systems that don't just work — they work *by themselves*. 
 
-Building scalable backend systems and data-driven applications that solve real customer problems. Currently in Vancouver, BC, seeking Fall 2026 SDE Internship opportunities.
+For 5 years I made healthcare and fintech platforms reliable at scale. Now I'm focused on where that meets AI: automating the boring parts, testing smarter, and building agents that handle real workflows.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sushilkshetriya/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sushilkshetri@email.com)
-[![Location](https://img.shields.io/badge/Vancouver%2C_BC-Canada-red)]()
+Currently in Vancouver, building and breaking things in my MS CS program.
 
 ---
 
-### 🚀 What I Build
+### What I actually love building
 
-- **Backend Systems**: Java, Spring Boot, Python, REST APIs
-- **Databases**: MySQL, MSSQL, RavenDB — schema design, query optimization, volume testing
-- **Cloud & DevOps**: AWS basics, CI/CD, Git, Jenkins, Docker
-- **Testing**: Automation frameworks, performance testing, Selenium
+**Automation that replaces manual work**
+- Built SQL validation frameworks that cut regression testing by 40% — not by working harder, by automating the checks across millions of records
+- I get excited when a script can do in 5 minutes what used to take a team all day
 
-### 💼 Experience Highlights
+**AI-powered tools for engineers**
+- Experimenting with AI agents for test generation, log analysis, and code review
+- Not chatbot demos — real automation for CI/CD, data validation, and monitoring
 
-**Software Engineer — Cedar Gate Technologies (2021-2025)**
-- Tested and validated claim adjudication engines processing high-volume healthcare transactions
-- Built SQL validation suites that reduced regression testing time by 40%
-- Automated data validation with Python, improving accuracy for millions of records
+**Backend systems that have to be right**
+- Pharmacy databases, loan engines, claim processors — systems where data integrity isn't optional
+- I enjoy the hard parts: schema design, query optimization, making distributed pieces talk to each other
 
-**Software Engineer — Radiant InfoTech Nepal (2019-2021)**
-- Developed loan management microservices handling 2,000+ applications/month
-- Implemented CI/CD pipelines reducing deployment time by 30%
+### Projects I'm working on
 
-### 🎓 Recent Projects
+**Communi Pharmacy System** — Full-stack system for prescriptions and inventory. Built to learn how real business logic maps to clean data models.
 
-**Communi Pharmacy Management System**
-- Full-stack pharmacy database with 24+ tables for prescriptions, inventory, and billing
-- Tech: MySQL, Java, normalization, transaction management
-- [View Schema →](https://github.com/sushilkshetri)
+**AI Test Automation Framework** — Using Python + LLMs to generate test cases from requirements and auto-heal flaky Selenium tests. Because manual test maintenance is painful.
 
-**Event Lookup System (Android)**
-- Java Android app for real-time event discovery and tracking
-- Features: Google Maps integration, SQLite offline storage
-- [View Code →](https://github.com/sushilkshetri)
+**Event Lookup Android App** — Java app with offline SQLite and Maps. My reminder that good UX matters even in backend-heavy work.
 
-**OwnCloud Customization**
-- Custom file-sharing workflows and automation scripts
-- Tech: PHP, JavaScript, Linux
+### My stack (the tools I reach for)
+`Python` for automation • `Java` for backend • `SQL` for data • `Selenium/Jenkins` for CI/CD • `AWS` basics • Currently playing with LangChain, vector DBs, and AI agents
 
-### 🛠️ Tech Stack
+### How I think
+1. Can a machine do this instead of a human?
+2. What's the simplest reliable solution?
+3. Will this still work at 10x scale?
+
+---
+
+### Open to
+Fall 2026 SDE / AI Automation internships — especially teams building internal tools, platform automation, or AI-assisted engineering.
+
+📫 [LinkedIn](https://www.linkedin.com/in/sushilkshetriya/) • Vancouver, BC
+
+> I don't build AI for hype. I build automation because reliable systems should run themselves.
