@@ -1,6 +1,6 @@
 # Hey, I'm Sushil 👋
 
-**Automation Engineer | Backend Builder | MS Computer Science**
+**Senior Software Engineer | QA & Development | MS CS Student**
 
 I build systems that don't just work — they work *by themselves*. 
 
