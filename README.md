@@ -25,16 +25,14 @@ Currently in Vancouver, building and breaking things in my MS CS program.
 - Pharmacy databases, loan engines, claim processors — systems where data integrity isn't optional
 - I enjoy the hard parts: schema design, query optimization, making distributed pieces talk to each other
 
-### Projects I'm working on
+### My Stack
+Production-proven: Java • Python • SQL • Selenium • Jenkins • Spring Boot • Angular • MySQL/MSSQL
+Currently exploring: Machine Learning fundamentals • AWS
 
-**Communi Pharmacy System** — Full-stack system for prescriptions and inventory. Built to learn how real business logic maps to clean data models.
+### What I'm focused on now
+For 6+ years, I made healthcare and fintech platforms reliable at scale. Now as an MS CS student, I'm focused on where that meets AI and machine learning — automating the boring parts, testing smarter, and understanding how ML can improve engineering workflows.
 
-**AI Test Automation Framework** — Using Python + LLMs to generate test cases from requirements and auto-heal flaky Selenium tests. Because manual test maintenance is painful.
-
-**Event Lookup Android App** — Java app with offline SQLite and Maps. My reminder that good UX matters even in backend-heavy work.
-
-### My stack (the tools I reach for)
-`Python` for automation • `Java` for backend • `SQL` for data • `Selenium/Jenkins` for CI/CD • `AWS` basics • Currently playing with LangChain, vector DBs, and AI agents
+Not actively building public side projects right now — deep in coursework and internship prep for Fall 2026
 
 ### How I think
 1. Can a machine do this instead of a human?
