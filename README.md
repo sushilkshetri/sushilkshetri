@@ -31,7 +31,7 @@ Production-proven: Java • Python • PHP • Javascript • SQL • Selenium �
 Currently exploring: Machine Learning fundamentals • AWS
 
 
-Not actively building public side projects right now — deep in coursework and internship prep for Fall 2026
+Not actively building public side projects right now — deep in coursework
 
 ### How I think
 1. Can a machine do this instead of a human?
