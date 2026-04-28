@@ -26,11 +26,9 @@ Currently in Vancouver, building and breaking things in my MS CS program.
 - I enjoy the hard parts: schema design, query optimization, making distributed pieces talk to each other
 
 ### My Stack
-Production-proven: Java • Python • SQL • Selenium • Jenkins • Spring Boot • Angular • MySQL/MSSQL
+Production-proven: Java • Python • PHP • Javascript • SQL • Selenium • Jenkins • Spring Boot • Angular • MySQL/MSSQL • RavenDB
 Currently exploring: Machine Learning fundamentals • AWS
 
-### What I'm focused on now
-For 6+ years, I made healthcare and fintech platforms reliable at scale. Now as an MS CS student, I'm focused on where that meets AI and machine learning — automating the boring parts, testing smarter, and understanding how ML can improve engineering workflows.
 
 Not actively building public side projects right now — deep in coursework and internship prep for Fall 2026
 
