@@ -41,7 +41,7 @@ Not actively building public side projects right now — deep in coursework and 
 ---
 
 ### Open to
-Fall 2026 SDE / AI Automation internships — especially teams building internal tools, platform automation, or AI-assisted engineering.
+Fall 2026 SDE / Machine Learning Intern — interested in ML platforms, data-intensive systems, and applying ML to software engineering
 
 📫 [LinkedIn](https://www.linkedin.com/in/sushilkshetriya/)
 🌐 [Website](https://www.sushilkhatichhetri.com.np)
