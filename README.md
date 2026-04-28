@@ -27,6 +27,7 @@ Currently in Vancouver, building and breaking things in my MS CS program.
 
 ### My Stack
 Production-proven: Java • Python • PHP • Javascript • SQL • Selenium • Jenkins • Spring Boot • Angular • MySQL/MSSQL • RavenDB
+
 Currently exploring: Machine Learning fundamentals • AWS
 
 
