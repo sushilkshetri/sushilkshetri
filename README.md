@@ -42,6 +42,7 @@ Not actively building public side projects right now — deep in coursework and 
 ### Open to
 Fall 2026 SDE / AI Automation internships — especially teams building internal tools, platform automation, or AI-assisted engineering.
 
-📫 [LinkedIn](https://www.linkedin.com/in/sushilkshetriya/) • Vancouver, BC
+📫 [LinkedIn](https://www.linkedin.com/in/sushilkshetriya/)
+🌐 [Website](https://www.sushilkhatichhetri.com.np)
 
 > I don't build AI for hype. I build automation because reliable systems should run themselves.
