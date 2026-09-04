@@ -41,7 +41,7 @@ Not actively building public side projects right now — deep in coursework
 ---
 
 ### Open to
-Fall 2026 SDE / Machine Learning Intern — interested in ML platforms, data-intensive systems, and applying ML to software engineering
+SDE / Machine Learning Intern — interested in ML platforms, data-intensive systems, and applying ML to software engineering
 
 📫 [LinkedIn](https://www.linkedin.com/in/sushilkshetriya/)
 🌐 [Website](https://www.sushilkhatichhetri.com.np)
