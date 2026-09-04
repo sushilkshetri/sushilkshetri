@@ -1,6 +1,6 @@
 # Hey, I'm Sushil 👋
 
-**Senior Software Engineer | QA & Development**
+**Software Engineer | QA & Development**
 
 I build systems that don't just work — they work *by themselves*. 
 
