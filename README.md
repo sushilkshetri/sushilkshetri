@@ -2,7 +2,7 @@
 
 **Software Engineer | QA & Development**
 
-I build systems that don't just work — they work *by themselves*. 
+I build systems that don't just work - they work *by themselves*. 
 
 For 6+ years, I made healthcare and fintech platforms reliable at scale. Now I'm focused on where that meets AI and machine learning — automating 
 the boring parts, testing smarter, and building agents that handle real workflows.
