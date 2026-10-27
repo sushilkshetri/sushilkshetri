@@ -1,28 +1,18 @@
 ## Hey, I'm Sushil 👋
 
-**Software Engineer | QA & Development**
+I write software and I test it. I've been doing both for close to seven years, mostly in Java, and now I'm doing my master's in CS at Northeastern in Vancouver.
 
-I write software and I test it. I've spent close to seven years doing both, first as a Java developer at Radiant Info Tech building software for banks and cooperatives, then almost five years at Cedar Gate Technologies on a US healthcare claims platform.
+Five years of testing healthcare claims made me a little paranoid about edge cases, in a good way. These days I'm curious about distributed systems and where ML fits into everyday software engineering.
 
-Right now I'm doing my master's in Computer Science at Northeastern University in Vancouver, focusing on distributed systems and AI.
+🔭 Working on a class project that benchmarks two ways to share state in a distributed system: a single owner vs. a shared database
+🌱 Learning machine learning, starting with pattern recognition and computer vision
+✍️ Writing about testing and automation on [dev.to](https://dev.to/sushilchhetri) and [Medium](https://medium.com/@sushil.chhetri), and Nepali poetry when I find the time
+☕ Running on pour-over coffee, probably too much of it
 
-### Things I've built
+**How I think:** Can a machine do this instead of a human? What's the simplest thing that works? Will it still work at 10x?
 
-- **Test automation framework:** An internal Spring framework that let testers automate a case just by saving its XPath. Regression testing got 33% faster, and other QA teams started using it.
-- **Cooperative loan system:** Java and Angular, with biometric verification and automatic reports. Cut manual processing time by 38% and handled 1,000+ applications a month.
-- **ApexShell:** A UNIX shell in C with a priority-based job scheduler. High-priority jobs finished 20% faster under heavy CPU load.
-- **Hex game agent:** Monte Carlo Tree Search in C++ that picks each move in 150–300 ms with only 64 MB of memory.
+Java · Python · C/C++ · TypeScript · SQL · Spring · Angular · Selenium · Docker · AWS
 
-### What I work with
+Open to co-op roles in software development, test automation, and ML.
 
-Java · Python · C/C++ · TypeScript · SQL · Spring · Angular · Selenium · TestNG · Jenkins · Docker · AWS · MySQL · MSSQL · RavenDB
-
-### What I'm learning
-
-Machine learning (pattern recognition and computer vision this term) and distributed systems.
-
-### Open to
-
-Co-op and internship roles in software development, test automation, and ML.
-
-📫 [LinkedIn](https://www.linkedin.com/in/sushilkshetriya/) · 🌐 [Website](https://sushilkhatichhetri.com.np/) · ✍️ [dev.to](https://dev.to/sushilchhetri)
+📫 [LinkedIn](https://www.linkedin.com/in/sushilkshetriya/) · 🌐 [Website](https://sushilkhatichhetri.com.np/)
