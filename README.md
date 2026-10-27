@@ -1,18 +1,32 @@
-## Hey, I'm Sushil 👋
+## Hi, I'm Sushil 👋
 
-I write software and I test it. I've been doing both for close to seven years, mostly in Java, and now I'm doing my master's in CS at Northeastern in Vancouver.
+**Software Engineer | QA & Development | Vancouver, BC**
 
-Five years of testing healthcare claims made me a little paranoid about edge cases, in a good way. These days I'm curious about distributed systems and where ML fits into everyday software engineering.
+I write software and I test it. I've spent close to seven years doing both, first building Java apps for banks and cooperatives at Radiant Info Tech, then almost five years testing a US healthcare claims platform at Cedar Gate Technologies. Right now I'm doing my master's in Computer Science at Northeastern University in Vancouver.
 
-🔭 Working on a class project that benchmarks two ways to share state in a distributed system: a single owner vs. a shared database
-🌱 Learning machine learning, starting with pattern recognition and computer vision
-✍️ Writing about testing and automation on [dev.to](https://dev.to/sushilchhetri) and [Medium](https://medium.com/@sushil.chhetri), and Nepali poetry when I find the time
-☕ Running on pour-over coffee, probably too much of it
+- 🔭 Working on a distributed systems project that compares two ways of sharing state
+- 🌱 Learning more about distributed systems
+- 💬 Ask me about test automation, Selenium, Java, or QA
+- ✍️ I write about testing on [dev.to](https://dev.to/sushilchhetri) and [Medium](https://medium.com/@sushil.chhetri)
+- ⚡ Fun fact: I write Nepali poetry and drink more pour-over coffee than I should
 
-**How I think:** Can a machine do this instead of a human? What's the simplest thing that works? Will it still work at 10x?
+### 🛠️ Tech Stack
 
-Java · Python · C/C++ · TypeScript · SQL · Spring · Angular · Selenium · Docker · AWS
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-Open to co-op roles in software development, test automation, and ML.
+### 📫 Connect with me
 
-📫 [LinkedIn](https://www.linkedin.com/in/sushilkshetriya/) · 🌐 [Website](https://sushilkhatichhetri.com.np/)
+[LinkedIn](https://www.linkedin.com/in/sushilkshetriya/) · [Website](https://sushilkhatichhetri.com.np/)
+
+Open to co-op roles in software development and test automation.
