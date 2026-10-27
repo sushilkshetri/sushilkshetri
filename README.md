@@ -4,8 +4,8 @@
 
 I write software and I test it. I've spent close to seven years doing both, first building Java apps for banks and cooperatives at Radiant Info Tech, then almost five years testing a US healthcare claims platform at Cedar Gate Technologies. Right now I'm doing my master's in Computer Science at Northeastern University in Vancouver.
 
-- 🔭 Working on a distributed systems project that compares two ways of sharing state
-- 🌱 Learning more about distributed systems
+- 🔭 Working on a distributed systems project that compares two ways of sharing state, and an ML project comparing a classic classifier with a neural network
+- 🌱 Learning more about distributed systems and machine learning
 - 💬 Ask me about test automation, Selenium, Java, or QA
 - ✍️ I write about testing on [dev.to](https://dev.to/sushilchhetri) and [Medium](https://medium.com/@sushil.chhetri)
 - ⚡ Fun fact: I write Nepali poetry and drink more pour-over coffee than I should
