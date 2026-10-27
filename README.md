@@ -1,49 +1,28 @@
-# Hey, I'm Sushil 👋
+## Hey, I'm Sushil 👋
 
 **Software Engineer | QA & Development**
 
-I build systems that don't just work - they work *by themselves*. 
+I write software and I test it. I've spent close to seven years doing both, first as a Java developer at Radiant Info Tech building software for banks and cooperatives, then almost five years at Cedar Gate Technologies on a US healthcare claims platform.
 
-For 6+ years, I made healthcare and fintech platforms reliable at scale. Now I'm focused on where that meets AI and machine learning - automating 
-the boring parts, testing smarter, and building agents that handle real workflows.
+Right now I'm doing my master's in Computer Science at Northeastern University in Vancouver, focusing on distributed systems and AI.
 
-Currently in Vancouver, building and breaking things in my MS CS program.
+### Things I've built
 
----
+- **Test automation framework:** An internal Spring framework that let testers automate a case just by saving its XPath. Regression testing got 33% faster, and other QA teams started using it.
+- **Cooperative loan system:** Java and Angular, with biometric verification and automatic reports. Cut manual processing time by 38% and handled 1,000+ applications a month.
+- **ApexShell:** A UNIX shell in C with a priority-based job scheduler. High-priority jobs finished 20% faster under heavy CPU load.
+- **Hex game agent:** Monte Carlo Tree Search in C++ that picks each move in 150–300 ms with only 64 MB of memory.
 
-### What I actually love building
+### What I work with
 
-**Automation that replaces manual work**
-- Built SQL validation frameworks that cut regression testing by 40% — not by working harder, by automating the checks across millions of records
-- I get excited when a script can do in 5 minutes what used to take a team all day
+Java · Python · C/C++ · TypeScript · SQL · Spring · Angular · Selenium · TestNG · Jenkins · Docker · AWS · MySQL · MSSQL · RavenDB
 
-**AI-powered tools for engineers**
-- Experimenting with AI agents for test generation, log analysis, and code review
-- Not chatbot demos — real automation for CI/CD, data validation, and monitoring
+### What I'm learning
 
-**Backend systems that have to be right**
-- Pharmacy databases, loan engines, claim processors — systems where data integrity isn't optional
-- I enjoy the hard parts: schema design, query optimization, making distributed pieces talk to each other
-
-### My Stack
-Production-proven: Java • Python • PHP • Javascript • SQL • Selenium • Jenkins • Spring Boot • Angular • MySQL/MSSQL • RavenDB
-
-Currently exploring: Machine Learning fundamentals • AWS
-
-
-Not actively building public side projects right now — deep in coursework
-
-### How I think
-1. Can a machine do this instead of a human?
-2. What's the simplest reliable solution?
-3. Will this still work at 10x scale?
-
----
+Machine learning (pattern recognition and computer vision this term) and distributed systems.
 
 ### Open to
-SDE / Machine Learning Intern — interested in ML platforms, data-intensive systems, and applying ML to software engineering
 
-📫 [LinkedIn](https://www.linkedin.com/in/sushilkshetriya/)
-🌐 [Website](https://www.sushilkhatichhetri.com.np)
+Co-op and internship roles in software development, test automation, and ML.
 
-> I don't build AI for hype. I build automation because reliable systems should run themselves.
+📫 [LinkedIn](https://www.linkedin.com/in/sushilkshetriya/) · 🌐 [Website](https://sushilkhatichhetri.com.np/) · ✍️ [dev.to](https://dev.to/sushilchhetri)
